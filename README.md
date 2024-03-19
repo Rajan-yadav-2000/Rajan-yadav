@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekmishraaa&label=Profile%20views&color=0e75b6&style=flat" alt="Rajanyadav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateekmishraaa" alt="prateekmishraaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajanyadav" alt="rajanyadav" /></a> </p>
 
 - 🌱 I’m currently learning *Node Js*
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rajan-yadav-498800249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateek mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajan-yadav-498800249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajanyadav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateekmishraaa&show_icons=true&locale=en&layout=compact" alt="prateekmishraaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekmishraaa&show_icons=true&locale=en" alt="prateekmishraaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekmishraaa&show_icons=true&locale=en" alt="rajanyadav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekmishraaa&" alt="rajanyadav" /></p># Rajan-yadav
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajanyadav&" alt="rajanyadav" /></p># Rajan-yadav
